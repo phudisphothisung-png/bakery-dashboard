@@ -16,4 +16,4 @@
 - `เฉลี่ยชิ้นต่อบิล = [จำนวนที่ขายได้] / [จำนวนใบเสร็จทั้งหมด]`
 
 ---
-[ดูหน้า Dashboard ของจริงได้ที่นี่](https://phudisphothisung-png.github.io/bakery-dashboard/)
+
